@@ -2,8 +2,6 @@
 Viorazu.xai-spam-hunter
 X (Twitter) Spam Detection & Originality Checker
 
-© 2025 Viorazu. All rights reserved.
-
 Author: Viorazu.
 Created: 2025-09-15
 Purpose: リライト記事とBotによるプラットフォーム汚染を防ぐ
